@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MY MOVIES</string>
+    <string name="movies">MOVIES</string>
+    <string name="tv_show">TV SHOWS</string>
+    <string name="dummyTitle">Judul Film</string>
+    <string name="foregroundPoster">fgposter</string>
+    <string name="dummyDuration">2h 2m</string>
+    <string name="dummyDate">20/02/2018</string>
+    <string name="dummyGenre">Action, Adventure</string>
+    <string name="dummyUserScore">95</string>
+    <string name="release_date">Release Date:</string>
+    <string name="dummySinopsis">Data sinopsis</string>
+    <string name="genre">Genre:</string>
+    <string name="duration">Duration:</string>
+    <string name="sinopsis">Sinopsis:</string>
+    <string name="backButton">backbutton</string>
+    <string name="image_description">image description</string>
+</resources>
